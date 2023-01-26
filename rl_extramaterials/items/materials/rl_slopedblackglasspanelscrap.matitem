@@ -1,0 +1,15 @@
+{
+  "itemName" : "rl_slopedblackglasspanelscrap",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "rl_slopedblackglasspanelscrap.png",
+  "description" : "Dark-tinted transparent panelling in a state of severe disrepair.",
+  "shortdescription" : "Scrap Blk Glass Panel",
+  "glitchdescription" : "Interested. This glass has been so darkly tinted it is almost not transparent.",
+  "florandescription" : "Floran can hide behind dark glasss.",
+  "novakiddescription" : "Glass so dark the sun'll hardly shine through.",
+
+  "materialId" : 47017,
+  "learnBlueprintsOnPickup" : [ "rl_slopedblackglasspanelscrap" ]
+}

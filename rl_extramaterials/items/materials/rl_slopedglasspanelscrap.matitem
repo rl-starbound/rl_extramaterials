@@ -1,0 +1,15 @@
+{
+  "itemName" : "rl_slopedglasspanelscrap",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "rl_slopedglasspanelscrap.png",
+  "description" : "Transparent panelling in a state of severe disrepair.",
+  "shortdescription" : "Scrap Glass Panel",
+  "glitchdescription" : "Attentive. I can see clearly though this transparent glass.",
+  "florandescription" : "Floran lookss pretty in glasssss.",
+  "novakiddescription" : "I can see clear through t'the other side of this glass.",
+
+  "materialId" : 47016,
+  "learnBlueprintsOnPickup" : [ "rl_slopedglasspanelscrap" ]
+}

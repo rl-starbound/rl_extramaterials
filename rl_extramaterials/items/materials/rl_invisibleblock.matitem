@@ -1,0 +1,11 @@
+{
+  "itemName" : "rl_invisibleblock",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "rl_invisibleblock.png",
+  "description" : "A light-opaque invisible block.",
+  "shortdescription" : "Invisible Block",
+
+  "materialId" : 47320
+}

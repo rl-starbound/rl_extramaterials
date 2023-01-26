@@ -1,0 +1,86 @@
+{
+  "margin" : 0,
+  "name" : "rl_extramaterials/materials",
+  "properties" : {
+  },
+  "spacing" : 0,
+  "tilecount" : 8,
+  "tileheight" : 8,
+  "tileproperties" : {
+    "0" : {
+      "//description" : "Transparent panelling often used for ship and station construction.",
+      "//name" : "rl_slopedglasspanel",
+      "//shortdescription" : "Glass Panel",
+      "material" : "rl_slopedglasspanel"
+    },
+    "1" : {
+      "//description" : "Dark-tinted transparent panelling often used for ship and station construction.",
+      "//name" : "rl_slopedblackglasspanel",
+      "//shortdescription" : "Blk Glass Panel",
+      "material" : "rl_slopedblackglasspanel"
+    },
+    "2" : {
+      "//description" : "Transparent panelling that can withstand most weathering.",
+      "//name" : "rl_slopedglasspanelinset",
+      "//shortdescription" : "Inset Glass Panel",
+      "material" : "rl_slopedglasspanelinset"
+    },
+    "3" : {
+      "//description" : "Dark-tinted transparent panelling that can withstand most weathering.",
+      "//name" : "rl_slopedblackglasspanelinset",
+      "//shortdescription" : "Inset Blk Glass Panel",
+      "material" : "rl_slopedblackglasspanelinset"
+    },
+    "4" : {
+      "//description" : "Transparent panelling that has been rusted with age.",
+      "//name" : "rl_slopedglasspanelrusty",
+      "//shortdescription" : "Rusty Glass Panel",
+      "material" : "rl_slopedglasspanelrusty"
+    },
+    "5" : {
+      "//description" : "Dark-tinted transparent panelling that has been rusted with age.",
+      "//name" : "rl_slopedblackglasspanelrusty",
+      "//shortdescription" : "Rusty Blk Glass Panel",
+      "material" : "rl_slopedblackglasspanelrusty"
+    },
+    "6" : {
+      "//description" : "Transparent panelling in a state of severe disrepair.",
+      "//name" : "rl_slopedglasspanelscrap",
+      "//shortdescription" : "Scrap Glass Panel",
+      "material" : "rl_slopedglasspanelscrap"
+    },
+    "7" : {
+      "//description" : "Dark-tinted transparent panelling in a state of severe disrepair.",
+      "//name" : "rl_slopedblackglasspanelscrap",
+      "//shortdescription" : "Scrap Blk Glass Panel",
+      "material" : "rl_slopedblackglasspanelscrap"
+    }
+  },
+  "tiles" : {
+    "0" : {
+      "image" : "../../_tiled/rl_extramaterials/materials/rl_slopedglasspanel.png"
+    },
+    "1" : {
+      "image" : "../../_tiled/rl_extramaterials/materials/rl_slopedblackglasspanel.png"
+    },
+    "2" : {
+      "image" : "../../_tiled/rl_extramaterials/materials/rl_slopedglasspanelinset.png"
+    },
+    "3" : {
+      "image" : "../../_tiled/rl_extramaterials/materials/rl_slopedblackglasspanelinset.png"
+    },
+    "4" : {
+      "image" : "../../_tiled/rl_extramaterials/materials/rl_slopedglasspanelrusty.png"
+    },
+    "5" : {
+      "image" : "../../_tiled/rl_extramaterials/materials/rl_slopedblackglasspanelrusty.png"
+    },
+    "6" : {
+      "image" : "../../_tiled/rl_extramaterials/materials/rl_slopedglasspanelscrap.png"
+    },
+    "7" : {
+      "image" : "../../_tiled/rl_extramaterials/materials/rl_slopedblackglasspanelscrap.png"
+    }
+  },
+  "tilewidth" : 8
+}

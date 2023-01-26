@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "glass", "count" : 2 },
+    { "item" : "titaniumbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "rl_slopedglasspanelinset",
+    "count" : 20
+  },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture2", "materials", "all" ]
+}

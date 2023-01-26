@@ -1,0 +1,20 @@
+{
+  "materialId" : 47322,
+  "materialName" : "rl_invisibleplatform",
+  "collisionKind" : "platform",
+
+  "description" : "...",
+  "shortdescription" : "Invisible Platform",
+  "health" : 30,
+  "category" : "Supports",
+
+  "renderTemplate" : "/tiles/platformtemplate.config",
+  "renderParameters" : {
+    "texture" : "rl_invisibleplatform.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : -1
+  }
+}

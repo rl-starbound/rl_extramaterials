@@ -1,0 +1,15 @@
+{
+  "itemName" : "rl_slopedglasspanelrusty",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "rl_slopedglasspanelrusty.png",
+  "description" : "Transparent panelling that has been rusted with age.",
+  "shortdescription" : "Rusty Glass Panel",
+  "glitchdescription" : "Attentive. I can see clearly though this transparent glass.",
+  "florandescription" : "Floran lookss pretty in glasssss.",
+  "novakiddescription" : "I can see clear through t'the other side of this glass.",
+
+  "materialId" : 47014,
+  "learnBlueprintsOnPickup" : [ "rl_slopedglasspanelrusty" ]
+}

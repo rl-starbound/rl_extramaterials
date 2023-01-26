@@ -1,0 +1,66 @@
+[
+  { "op" : "add",
+    "path" : "/slopedMaterial/0/1/pool/-",
+    "value" : {"weight" : 0.125, "item" : ["rl_slopedglasspanel", 50]}
+  },
+  { "op" : "add",
+    "path" : "/slopedMaterial/0/1/pool/-",
+    "value" : {"weight" : 0.125, "item" : ["rl_slopedglasspanelinset", 50]}
+  },
+  { "op" : "add",
+    "path" : "/slopedMaterial/0/1/pool/-",
+    "value" : {"weight" : 0.125, "item" : ["rl_slopedglasspanelrusty", 50]}
+  },
+  { "op" : "add",
+    "path" : "/slopedMaterial/0/1/pool/-",
+    "value" : {"weight" : 0.125, "item" : ["rl_slopedglasspanelscrap", 50]}
+  },
+  { "op" : "add",
+    "path" : "/slopedMaterial/0/1/pool/-",
+    "value" : {"weight" : 0.125, "item" : ["rl_slopedblackglasspanel", 50]}
+  },
+  { "op" : "add",
+    "path" : "/slopedMaterial/0/1/pool/-",
+    "value" : {"weight" : 0.125, "item" : ["rl_slopedblackglasspanelinset", 50]}
+  },
+  { "op" : "add",
+    "path" : "/slopedMaterial/0/1/pool/-",
+    "value" : {"weight" : 0.125, "item" : ["rl_slopedblackglasspanelrusty", 50]}
+  },
+  { "op" : "add",
+    "path" : "/slopedMaterial/0/1/pool/-",
+    "value" : {"weight" : 0.125, "item" : ["rl_slopedblackglasspanelscrap", 50]}
+  },
+  { "op" : "add",
+    "path" : "/spaceTrash/0/1/pool/-",
+    "value" : {"weight" : 0.5, "item" : ["rl_slopedglasspanel", 25]}
+  },
+  { "op" : "add",
+    "path" : "/spaceTrash/0/1/pool/-",
+    "value" : {"weight" : 0.5, "item" : ["rl_slopedglasspanelinset", 25]}
+  },
+  { "op" : "add",
+    "path" : "/spaceTrash/0/1/pool/-",
+    "value" : {"weight" : 0.5, "item" : ["rl_slopedglasspanelrusty", 25]}
+  },
+  { "op" : "add",
+    "path" : "/spaceTrash/0/1/pool/-",
+    "value" : {"weight" : 0.5, "item" : ["rl_slopedglasspanelscrap", 25]}
+  },
+  { "op" : "add",
+    "path" : "/spaceTrash/0/1/pool/-",
+    "value" : {"weight" : 0.5, "item" : ["rl_slopedblackglasspanel", 25]}
+  },
+  { "op" : "add",
+    "path" : "/spaceTrash/0/1/pool/-",
+    "value" : {"weight" : 0.5, "item" : ["rl_slopedblackglasspanelinset", 25]}
+  },
+  { "op" : "add",
+    "path" : "/spaceTrash/0/1/pool/-",
+    "value" : {"weight" : 0.5, "item" : ["rl_slopedblackglasspanelrusty", 25]}
+  },
+  { "op" : "add",
+    "path" : "/spaceTrash/0/1/pool/-",
+    "value" : {"weight" : 0.5, "item" : ["rl_slopedblackglasspanelscrap", 25]}
+  }
+]

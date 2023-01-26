@@ -1,0 +1,15 @@
+{
+  "itemName" : "rl_slopedblackglasspanelinset",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "rl_slopedblackglasspanelinset.png",
+  "description" : "Dark-tinted transparent panelling that can withstand most weathering.",
+  "shortdescription" : "Inset Blk Glass Panel",
+  "glitchdescription" : "Interested. This glass has been so darkly tinted it is almost not transparent.",
+  "florandescription" : "Floran can hide behind dark glasss.",
+  "novakiddescription" : "Glass so dark the sun'll hardly shine through.",
+
+  "materialId" : 47013,
+  "learnBlueprintsOnPickup" : [ "rl_slopedblackglasspanelinset" ]
+}

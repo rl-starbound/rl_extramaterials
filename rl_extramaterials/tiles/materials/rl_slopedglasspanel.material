@@ -1,0 +1,25 @@
+{
+  "materialId" : 47010,
+  "materialName" : "rl_slopedglasspanel",
+  "particleColor" : [237, 254, 255, 255],
+  "itemDrop" : "rl_slopedglasspanel",
+  "description" : "I can see my reflection.",
+  "shortdescription" : "Glass Panel",
+  "glitchDescription" : "Attentive. I can see clearly though this transparent glass.",
+  "floranDescription" : "Floran lookss pretty in glasssss.",
+  "novakidDescription" : "I can see clear through t'the other side of this glass.",
+  "footstepSound" : "/sfx/blocks/footstep_glass.ogg",
+  "drawBackground" : true,
+  "health" : 4,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "rl_slopedglasspanel.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 4996
+  }
+}

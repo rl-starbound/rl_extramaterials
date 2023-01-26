@@ -1,0 +1,15 @@
+{
+  "itemName" : "rl_slopedblackglasspanelrusty",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "rl_slopedblackglasspanelrusty.png",
+  "description" : "Dark-tinted transparent panelling that has been rusted with age.",
+  "shortdescription" : "Rusty Blk Glass Panel",
+  "glitchdescription" : "Interested. This glass has been so darkly tinted it is almost not transparent.",
+  "florandescription" : "Floran can hide behind dark glasss.",
+  "novakiddescription" : "Glass so dark the sun'll hardly shine through.",
+
+  "materialId" : 47015,
+  "learnBlueprintsOnPickup" : [ "rl_slopedblackglasspanelrusty" ]
+}

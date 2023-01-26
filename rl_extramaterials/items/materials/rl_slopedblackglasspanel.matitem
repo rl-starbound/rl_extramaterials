@@ -1,0 +1,15 @@
+{
+  "itemName" : "rl_slopedblackglasspanel",
+  "price" : 0,
+  "category" : "block",
+  "rarity" : "Common",
+  "inventoryIcon" : "rl_slopedblackglasspanel.png",
+  "description" : "Dark-tinted transparent panelling often used for ship and station construction.",
+  "shortdescription" : "Blk Glass Panel",
+  "glitchdescription" : "Interested. This glass has been so darkly tinted it is almost not transparent.",
+  "florandescription" : "Floran can hide behind dark glasss.",
+  "novakiddescription" : "Glass so dark the sun'll hardly shine through.",
+
+  "materialId" : 47011,
+  "learnBlueprintsOnPickup" : [ "rl_slopedblackglasspanel" ]
+}

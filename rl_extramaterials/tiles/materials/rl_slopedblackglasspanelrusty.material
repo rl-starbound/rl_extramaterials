@@ -1,0 +1,25 @@
+{
+  "materialId" : 47015,
+  "materialName" : "rl_slopedblackglasspanelrusty",
+  "particleColor" : [25, 25, 25, 255],
+  "itemDrop" : "rl_slopedblackglasspanelrusty",
+  "description" : "A dark-tinted panel of glass.",
+  "shortdescription" : "Rusty Blk Glass Panel",
+  "glitchDescription" : "Interested. This glass has been so darkly tinted it is almost not transparent.",
+  "floranDescription" : "Floran can hide behind dark glasss.",
+  "novakidDescription" : "Glass so dark the sun'll hardly shine through.",
+  "footstepSound" : "/sfx/blocks/footstep_glass.ogg",
+  "drawBackground" : true,
+  "health" : 4,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/slopedmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "rl_slopedblackglasspanelrusty.png",
+    "variants" : 5,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : 4997
+  }
+}

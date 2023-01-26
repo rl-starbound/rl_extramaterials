@@ -1,0 +1,19 @@
+{
+  "materialId" : 47320,
+  "materialName" : "rl_invisibleblock",
+
+  "description" : "...",
+  "shortdescription" : "Invisible Block (Opaque)",
+  "health" : 30,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "rl_invisibleblock.png",
+    "variants" : 1,
+    "lightTransparent" : false,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : -2
+  }
+}

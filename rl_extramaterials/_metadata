@@ -1,0 +1,7 @@
+{
+  "author" : "rl.starbound",
+  "description" : "This mod provides extra building materials, including:\n\n* a variety of sloped glass panels\n\nCrafting recipes are included.\n\nAlso provided are invisible blocks that administrators can spawn for use in specialty builds.\n\nFind the source code at:\nhttps://github.com/rl-starbound/rl_extramaterials",
+  "friendlyName" : "RL Extra Materials",
+  "name" : "rl_extramaterials",
+  "version" : "1.0.0"
+}

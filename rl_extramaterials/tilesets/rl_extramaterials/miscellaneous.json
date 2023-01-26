@@ -1,0 +1,41 @@
+{
+  "margin" : 0,
+  "name" : "rl_extramaterials/miscellaneous",
+  "properties" : {
+  },
+  "spacing" : 0,
+  "tilecount" : 8,
+  "tileheight" : 8,
+  "tileproperties" : {
+    "0" : {
+      "//description" : "...",
+      "//name" : "rl_invisibleblock",
+      "//shortdescription" : "Invisible Block (Opaque)",
+      "material" : "rl_invisibleblock"
+    },
+    "1" : {
+      "//description" : "...",
+      "//name" : "rl_invisibleblocklight",
+      "//shortdescription" : "Invisible Block",
+      "material" : "rl_invisibleblocklight"
+    },
+    "2" : {
+      "//description" : "...",
+      "//name" : "rl_invisibleplatform",
+      "//shortdescription" : "Invisible Platform",
+      "material" : "rl_invisibleplatform"
+    }
+  },
+  "tiles" : {
+    "0" : {
+      "image" : "../../_tiled/rl_extramaterials/miscellaneous/rl_invisibleblock.png"
+    },
+    "1" : {
+      "image" : "../../_tiled/rl_extramaterials/miscellaneous/rl_invisibleblocklight.png"
+    },
+    "2" : {
+      "image" : "../../_tiled/rl_extramaterials/miscellaneous/rl_invisibleplatform.png"
+    }
+  },
+  "tilewidth" : 8
+}

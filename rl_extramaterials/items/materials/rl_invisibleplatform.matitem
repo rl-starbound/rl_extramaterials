@@ -1,0 +1,11 @@
+{
+  "itemName" : "rl_invisibleplatform",
+  "price" : 0,
+  "category" : "platform",
+  "rarity" : "Common",
+  "inventoryIcon" : "rl_invisibleplatform.png",
+  "description" : "An invisible platform.",
+  "shortdescription" : "Invisible Platform",
+
+  "materialId" : 47322
+}

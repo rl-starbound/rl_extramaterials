@@ -1,0 +1,19 @@
+{
+  "materialId" : 47321,
+  "materialName" : "rl_invisibleblocklight",
+
+  "description" : "...",
+  "shortdescription" : "Invisible Block",
+  "health" : 30,
+  "category" : "materials",
+
+  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderParameters" : {
+    "texture" : "rl_invisibleblocklight.png",
+    "variants" : 1,
+    "lightTransparent" : true,
+    "occludesBelow" : false,
+    "multiColored" : true,
+    "zLevel" : -2
+  }
+}
